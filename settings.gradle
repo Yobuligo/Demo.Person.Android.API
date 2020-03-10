@@ -1,2 +1,3 @@
 rootProject.name='Demo.Person.Android.API'
 include ':app'
+include ':demo_person_android_api'

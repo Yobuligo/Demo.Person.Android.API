@@ -1,4 +1,4 @@
-package com.yobuligo.demopersonandroidapi;
+package com.yobuligo.demo_person_android_api;
 
 import java.util.List;
 
